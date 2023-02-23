@@ -22,7 +22,6 @@ public class Main {
             System.out.println("Id: ");
             int id = sc.nextInt();
             System.out.println("Name: ");
-            //Teste
             sc.nextLine();
             String name = sc.nextLine();
             System.out.println("Salary: ");
